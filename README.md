@@ -27,7 +27,7 @@ git clone https://github.com/yourusername/izam-job-listings.git
 2. Navigate to the project directory
 
 ```
-cd izam-job-listings
+cd job-ui-project
 ```
 
 3. Install the dependencies
